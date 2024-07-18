@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MidStateGoldWeb/static/css/main.f855e6bc.css",
+    "main.js": "/MidStateGoldWeb/static/js/main.8886004a.js",
+    "static/js/453.c50fcb41.chunk.js": "/MidStateGoldWeb/static/js/453.c50fcb41.chunk.js",
+    "static/media/logo.svg": "/MidStateGoldWeb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MidStateGoldWeb/index.html",
+    "main.f855e6bc.css.map": "/MidStateGoldWeb/static/css/main.f855e6bc.css.map",
+    "main.8886004a.js.map": "/MidStateGoldWeb/static/js/main.8886004a.js.map",
+    "453.c50fcb41.chunk.js.map": "/MidStateGoldWeb/static/js/453.c50fcb41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.8886004a.js"
+  ]
+}
